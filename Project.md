@@ -2,7 +2,9 @@ layout: page
 title: "Technical Project Sample"
 permalink: /Project
 
-
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+	
     <div id="projects" class="background-alt">
         <h2 class="heading">Projects</h2>
         <div class="container">
